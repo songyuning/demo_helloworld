@@ -7,6 +7,7 @@ public class Helloworld {
 		System.out.println("Hello,world!");
 		System.out.println("Hello,eclipse!");
 		System.out.println("Oh,my god!");
+		System.out.println("测试一下不用输密码的情况。");
 	}
 
 }
